@@ -581,7 +581,7 @@
                 next.click();
             }, timeAutoNext)
         }
-    </SCript>
+    </script>
 
 
 
